@@ -1,0 +1,25 @@
+{
+  "name": "com.walsin.cordova.plugin.demo",
+  "version": "0.0.1",
+  "description": "Course",
+  "cordova": {
+    "id": "com.walsin.cordova.plugin.demo",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuoKaiNi/cordova-plugin-walsin-prepare.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Ken Ni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KuoKaiNi/cordova-plugin-walsin-prepare/issues"
+  },
+  "homepage": "https://github.com/KuoKaiNi/cordova-plugin-walsin-prepare#readme"
+}
